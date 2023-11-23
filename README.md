@@ -16,4 +16,4 @@ Instruções para Configurar e Executar a Aplicação:
 5. Execute o fluxo no Node-RED e verifique a interação com a assistente virtual, o controle de medicamentos e as notificações via Telegram.
 
 -  Link para a Simulação no Wokwi:
-https://wokwi.com/projects/381755446856009729
+  https://wokwi.com/projects/382153910292286465
